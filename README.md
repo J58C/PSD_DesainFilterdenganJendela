@@ -8,6 +8,9 @@ Jika file dicari tidak dapat ditemukan atau masih dalam tahap pengembangan, sila
 
 ## Struktur Folder
 
+- **JobSheet 1**: Tapis dan Jendela Tapis.
+- **JobSheet 2**: Jenis Jendela Tapis.
 - **JobSheet 3**: Desain Filter dengan Jendela.
 - **JobSheet 4**: Variasi Jendela.
 - **JobSheet 5**: FIR & IIR Filter 1.
+- **JobSheet 6**: IIR vs FIR 2.
