@@ -1,8 +1,6 @@
-# Anggota Kelompok
+# Repository Tugas
 
-- **Richky Abednego          (5312422025)**
-- **Hafidh Musyafa           (5312422034)**
-- **Muhamad Kurniawan Fauzi  (5312422037)**
+Repository ini dibuat untuk menyimpan semua tugas yang diberikan selama kuliah oleh Hafidh Musyafa dengan NIM 5312422034. Setiap tugas akan dikelola dalam folder terpisah untuk memudahkan navigasi dan pengelolaan.
 
 ## Disclaimer
 
