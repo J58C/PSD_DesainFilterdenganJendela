@@ -1,8 +1,8 @@
 # Anggota Kelompok
 
-- **Richky Abednego\t\t(5312422025)**
-- **Hafidh Musyafa\t\t(5312422034)**
-- **Muhamad Kurniawan Fauzi\t(5312422037)**
+- **Richky Abednego          (5312422025)**
+- **Hafidh Musyafa           (5312422034)**
+- **Muhamad Kurniawan Fauzi  (5312422037)**
 
 ## Disclaimer
 
